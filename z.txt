@@ -1,4 +1,0 @@
-cd java-courses
-git add Calculate.java
-git commit -m "create Calculat"
-git push origin master
